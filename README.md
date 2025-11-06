@@ -1,6 +1,4 @@
-# Practice Coding Questions
-
-Sharpen your problem-solving skills with these carefully selected coding challenges.  
+# Practice Coding Questions 
 **Note:** Solve these in a VS Code file **without using any AI assistance**.
 
 ---
