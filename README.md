@@ -1,5 +1,5 @@
 # Practice Coding Questions 
-**Note:** Solve these in a VS Code file **without using any AI assistance**.
+**Note:** Solve these in a VS Code Python file **without using any AI assistance**.
 
 ---
 
